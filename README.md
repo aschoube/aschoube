@@ -16,7 +16,7 @@
 - 🛠️ Shipping backend services and frontends in **Go, Node.js, Vue.js, TypeScript**
 - 🗄️ Contributing to **ClickHouse** in C++: [64-bit bitmap intersections without materializing them](https://github.com/ClickHouse/ClickHouse/pull/120615), up to 8x faster `bitmapAndCardinality` (merged)
 - 🔌 Tinkering with **ESP32 e-paper firmware** in C — merged fixes to [LilyGo EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pulls?q=author%3Aaschoube+is%3Amerged)
-- 📦 Merged open-source contributions to [**MobX**](https://github.com/mobxjs/mobx/pulls?q=author%3Aaschoube+is%3Amerged), [**axios**](https://github.com/axios/axios/pulls?q=author%3Aaschoube+is%3Amerged) and [**Apache Pinot**](https://github.com/apache/pinot/pulls?q=author%3Aaschoube+is%3Amerged)
+- 📦 Merged open-source contributions to [**Vue.js**](https://github.com/vuejs/core/pulls?q=author%3Aaschoube+is%3Amerged), [**MobX**](https://github.com/mobxjs/mobx/pulls?q=author%3Aaschoube+is%3Amerged), [**axios**](https://github.com/axios/axios/pulls?q=author%3Aaschoube+is%3Amerged) and [**Apache Pinot**](https://github.com/apache/pinot/pulls?q=author%3Aaschoube+is%3Amerged)
 - ✍️ Writing about debugging, embedded systems, and library internals at [imashish.dev/blog](https://imashish.dev/blog/)
 - 📫 Reach me at **ashishch196@gmail.com**
 

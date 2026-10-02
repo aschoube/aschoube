@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashish 👋</h1>
-<h3 align="center">Full-stack engineer · India</h3>
+<h3 align="center">Engineer at LinkedIn</h3>
 
 <p align="center">
   <a href="https://imashish.dev"><img src="https://img.shields.io/badge/Portfolio-imashish.dev-0e75b6?style=flat&logo=vercel&logoColor=white" alt="portfolio" /></a>
@@ -14,8 +14,9 @@
 ### About
 
 - 🛠️ Shipping backend services and frontends in **Go, Node.js, Vue.js, TypeScript**
-- 🔌 Tinkering with **ESP32 e-paper firmware** in C — recent fixes to [LilyGo EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pulls?q=author%3Aashishkr96)
-- 📦 Open-source contributions to **MobX, axios, Apache Pinot, Grafana**
+- 🗄️ Contributing to **ClickHouse** in C++: [64-bit bitmap intersections without materializing them](https://github.com/ClickHouse/ClickHouse/pull/120615), up to 8x faster `bitmapAndCardinality` (merged)
+- 🔌 Tinkering with **ESP32 e-paper firmware** in C — merged fixes to [LilyGo EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pulls?q=author%3Aaschoube+is%3Amerged)
+- 📦 Merged open-source contributions to [**MobX**](https://github.com/mobxjs/mobx/pulls?q=author%3Aaschoube+is%3Amerged), [**axios**](https://github.com/axios/axios/pulls?q=author%3Aaschoube+is%3Amerged) and [**Apache Pinot**](https://github.com/apache/pinot/pulls?q=author%3Aaschoube+is%3Amerged)
 - ✍️ Writing about debugging, embedded systems, and library internals at [imashish.dev/blog](https://imashish.dev/blog/)
 - 📫 Reach me at **ashishch196@gmail.com**
 
@@ -24,7 +25,7 @@
 ### Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,ts,js,vue,vuetify,react,svelte,mongodb,postgres,mysql,redis,rabbitmq,docker,aws,c,python&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,ts,js,vue,vuetify,react,svelte,mongodb,postgres,mysql,redis,rabbitmq,docker,aws,c,cpp,python&perline=10" alt="tech stack" />
 </p>
 
 ---
@@ -32,10 +33,6 @@
 ### GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishkr96&show_icons=true&locale=en&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ashishkr96&layout=compact&locale=en&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-omega.vercel.app/?username=ashishkr96&row=1&column=7&margin-w=10&no-frame=true" alt="trophies" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aschoube&show_icons=true&locale=en&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschoube&layout=compact&locale=en&hide_border=true" alt="top languages" />
 </p>

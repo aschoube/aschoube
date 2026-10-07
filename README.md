@@ -26,6 +26,7 @@
 | Project | Contribution |
 |---|---|
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [Faster 64-bit bitmap intersections with Roaring64Map](https://github.com/ClickHouse/ClickHouse/pull/120615): up to 8x faster `bitmapAndCardinality` |
+| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [Stop dependency-only refreshable MVs from re-running after `refresh_retries` are exhausted](https://github.com/ClickHouse/ClickHouse/pull/123369) |
 | [Vue.js](https://github.com/vuejs/core) | [Infer ref wrapper types in `compiler-sfc` when the source is unresolvable](https://github.com/vuejs/core/pull/14758) |
 | [Vue DevTools](https://github.com/vuejs/devtools) | [Trusted Types support for the Vite overlay under a strict CSP](https://github.com/vuejs/devtools/pull/1094) |
 | [MobX](https://github.com/mobxjs/mobx) | Lazy 2022.3 [`@computed`](https://github.com/mobxjs/mobx/pull/4639) and [`@observable`](https://github.com/mobxjs/mobx/pull/4658) decorators |
@@ -33,4 +34,4 @@
 | [Apache Pinot](https://github.com/apache/pinot) | [Null checks for optional fields in the query and storage UI](https://github.com/apache/pinot/pull/14663) |
 | [LilyGo EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47) | [ESP32 Arduino core 3.x compatibility](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pull/181) and an [infinite-loop fix on invalid UTF-8](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pull/183) |
 
-**In review:** [ClickHouse](https://github.com/ClickHouse/ClickHouse/pulls?q=is%3Apr+author%3Aaschoube+is%3Aopen) (2), [Grafana Loki](https://github.com/grafana/loki/pull/23175), [Svelte](https://github.com/sveltejs/svelte/pull/18143), [Helicone](https://github.com/Helicone/helicone/pull/5661), [Linux Mint live-installer](https://github.com/linuxmint/live-installer/pull/179)
+**In review:** [ClickHouse](https://github.com/ClickHouse/ClickHouse/pulls?q=is%3Apr+author%3Aaschoube+is%3Aopen) (10), [Svelte](https://github.com/sveltejs/svelte/pull/18143), [Helicone](https://github.com/Helicone/helicone/pull/5661), [Linux Mint live-installer](https://github.com/linuxmint/live-installer/pull/179), [grafana-backup-tool](https://github.com/ysde/grafana-backup-tool/pull/302)

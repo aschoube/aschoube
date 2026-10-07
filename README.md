@@ -33,5 +33,3 @@
 | [axios](https://github.com/axios/axios) | [Preserve a user-supplied `Host` header through a proxy](https://github.com/axios/axios/pull/10822) |
 | [Apache Pinot](https://github.com/apache/pinot) | [Null checks for optional fields in the query and storage UI](https://github.com/apache/pinot/pull/14663) |
 | [LilyGo EPD47](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47) | [ESP32 Arduino core 3.x compatibility](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pull/181) and an [infinite-loop fix on invalid UTF-8](https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/pull/183) |
-
-**In review:** [ClickHouse](https://github.com/ClickHouse/ClickHouse/pulls?q=is%3Apr+author%3Aaschoube+is%3Aopen) (10), [Svelte](https://github.com/sveltejs/svelte/pull/18143), [Helicone](https://github.com/Helicone/helicone/pull/5661), [Linux Mint live-installer](https://github.com/linuxmint/live-installer/pull/179), [grafana-backup-tool](https://github.com/ysde/grafana-backup-tool/pull/302)
